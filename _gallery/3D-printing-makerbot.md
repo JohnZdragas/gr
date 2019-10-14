@@ -6,9 +6,9 @@ caption: ' Η τεχνολογία τρισδιάστατης εκτύπωσης
 license_url: 'https://www.flickr.com/photos/bre/3458247336/'
 license_text: Courtesy of Bre Pettis
 categories:
-  - 3D-Printing
+  - Prototype
 tags:
   - 3D Printer
   - MakerBot
-  - Prototype
+  - FDM
 ---  
