@@ -10,7 +10,7 @@ categories:
   - Prototype
   - Augmented Reality
   - HCI
-  - tags:
+tags:
   - mouse
   - gesture
 
