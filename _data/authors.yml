@@ -20,6 +20,10 @@ exampleyourauthorname:
   email: "your email"
   twitter: "@your twitter account"
 # you can add more authors bellow this comment
+JohnZdragas:
+  name: "Zdragas Ioannis"
+  bio: "scholar"
+  email: "std091649@ac.eap.gr"
 #
 nickkouk:
   name: "Nikolaos Kouklas"
